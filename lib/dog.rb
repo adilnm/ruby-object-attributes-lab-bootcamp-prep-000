@@ -1,4 +1,8 @@
 class Dog
+  
+  def name
+    
+  end
   def breed
     @breed
   end
